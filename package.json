@@ -1,0 +1,27 @@
+{
+  "name": "javascript-interview",
+  "version": "1.0.0",
+  "description": "A set of JavaScript interview questions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krakers/javascript-interview.git"
+  },
+  "keywords": [
+    "javascript",
+    "interview",
+    "questions"
+  ],
+  "author": "Tomasz Lakomy <tlakomy90@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krakers/javascript-interview/issues"
+  },
+  "homepage": "https://github.com/Krakers/javascript-interview#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}

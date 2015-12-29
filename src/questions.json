@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What is a closure in JavaScript? Provide an example.",
+        "tags": ["JavaScript", "closure"]
+    },
+    {
+        "question": "What is function hoisting in JavaScript?",
+        "tags": ["JavaScript", "hoisting"]
+    },
+    {
+        "question": "What is the difference between == and === operators in JavaScript?",
+        "tags": ["JavaScript", "operators", "equality"]
+    },
+    {
+        "question": "What is a falsy value? Name some examples of falsy values",
+        "tags": ["JavaScript", "falsy value"]
+    }
+]
