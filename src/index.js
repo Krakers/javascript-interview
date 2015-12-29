@@ -5,5 +5,8 @@ module.exports = {
     all: questions.map((item) => {
         return item.question
     }),
-    random: uniqueRandomArray(questions).question
+    random: () => {
+        var generator = uniqueRandomArray(questions);
+        return generator().question;
+    }
 }
